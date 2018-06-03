@@ -73,7 +73,6 @@ int main()
     int choice_menu;
     menu:
     system("cls");
-    c
     cout<<"\n1.Create New Account\n2.Login";
     cout<<"\nEnter Your Choice And Hit Return Button:";
     cin>>choice_menu;
